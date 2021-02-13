@@ -1,0 +1,14 @@
+{
+    "me": "Aarav",
+    "farewell": "Have a nice day",
+    "ignore": ["someone@gmail.com", "another@gmail.com"],
+    "excuses": [
+        "there was a construction in my house, and my wifi unexpectedly went down",
+        "Zoom wasn't letting me join the meeting, and was saying that I was not connected to the internet. I fixed the problem by restarting my wifi",
+        "I had to rush my grandpa to the hospital, after a severely urgent incident",
+        "I had to give food as a donation to a homeless shelter",
+        "I was working on another computer, and took a long time to get my enviroment setup",
+        "the pumber was working in my room, and I wasn't able to log on"
+    ],
+    "office_hours_time": "Thursday, 3:30 pm"
+}

@@ -1,0 +1,5 @@
+google-api-python-client==1.28.8
+google-auth-httplib2==0.0.4
+google-auth-oauthlib==0.4.2
+html2text==2020.1.16
+jinja2==2.11.3
